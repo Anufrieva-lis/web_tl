@@ -224,7 +224,6 @@ body {
   height: 28px;
 }
 
-
 .main_article {
   display: flex;
   justify-content: space-between;
@@ -268,7 +267,6 @@ body {
   margin-bottom: 150px;
 }
 
-
 .main_article .main_article_map {
   padding-left: 110px;
 }
@@ -311,7 +309,6 @@ body {
   line-height: 56px;
   margin-right: 96px;
 }
-
 
 .main_facilities {
   width: 1408px;
@@ -396,7 +393,6 @@ body {
   width: 156px;
   height: 156px;
 }
-
 
 .main_contact {
   margin-left: 146px;
@@ -591,7 +587,6 @@ input {
   opacity: 0.7;
 }
 
-
 .main_post,
 .main_post-2,
 .main_post-3 {
@@ -691,8 +686,6 @@ input {
   width: 299px;
   height: 144px;
 }
-
-
 
 .main_faq-content {
   margin: 0 auto;
